@@ -1,5 +1,5 @@
 # MLOSS 2018
-📽 "Sustainers of the tidyverse" – [slides](https://github.com/batpigandme/mloss-2018/blob/master/sustainers_of_the_tverse_mloss.pdf) from presentation at [MLOSS 2018](https://2018.mloss.org/)
+📽 "Sustainers of the tidyverse" – [slides](https://github.com/batpigandme/mloss-2018/blob/master/sustainers_of_the_tverse_mloss.pdf) from presentation at the [Machine Learning Open Source Software 2018](https://2018.mloss.org/) workshop at [NeurIPS](https://nips.cc/).
 
 Slides also available on [SpeakerDeck](https://speakerdeck.com/batpigandme/sustainers-of-the-tverse-mloss/).
 
